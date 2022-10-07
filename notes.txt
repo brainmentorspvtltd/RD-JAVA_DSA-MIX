@@ -1,0 +1,18 @@
+JDK Install
+VSCode
+
+java command trigger JRE.
+JRE internally trigger JVM 
+JRE - Java Runtime Env.
+
+Source Code (.java)
+Compile (javac)
+javac <SourceFileName>.java
+U Get Byte Code (.class) , Byte Code (ClassName)
+
+Code Run
+java <ByteCode>/<ClassName>
+
+Java File - Pascal Case
+e.g AmitSrivastava
+e.g FirstClass
