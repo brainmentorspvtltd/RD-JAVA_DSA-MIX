@@ -1,0 +1,52 @@
+WAP (Write a Program)
+Q1. WAP to take input and check whether it is character, digit or special character
+
+Q2. WAP to take input and check the Character in Uppercase or lowercase
+
+Q3. WAP to take input and check the character is vowel or consonant.
+
+Q4. WAP to input to take input month and print number of days in a Month
+
+Q5 Print Employee Salary Slip 
+
+Id 
+Name 
+Basic Salary
+HRA (50% of the basic salary)
+DA (10% of the basic salary)
+TA (40% of the basic salary)
+MA (30% of the basic salary)
+PF (5% of the basic salary)
+GS = BasicSalary + HRA + DA + TA + MA 
+TAX = 10% on GS
+NS = GS - PF - TAX
+
+
+Q5. Print Student MarkSheet
+
+User can Input Rollno , Name , 3 Subject Marks 
+
+Compute total marks, Compute Percentage
+
+
+
+Compute Grade
+
+>=90 A Grade
+
+<90 to >=70 B Grade
+
+<70 to >=60 C Grade
+
+<60 to >=50 D Grade
+
+<50 F Grade
+
+
+
+
+
+Print in MarkSheet Style.
+
+
+
