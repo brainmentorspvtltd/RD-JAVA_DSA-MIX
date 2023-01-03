@@ -26,7 +26,7 @@ public class DiceCount {
     }
 
     public static void main(String[] args) {
-        ArrayList<String> res = countWays(0, 10);
+        ArrayList<String> res = countWays(0, 6);
         System.out.println(res);
     }
 }

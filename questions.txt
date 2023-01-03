@@ -1,0 +1,123 @@
+Print:
+5
+3
+1
+2
+4
+Hint : Odd Even
+
+Prime Number Using Recursion
+Sum of Digit
+i/p : 12345
+o/p : 15
+
+Check if Number is Palindrome Number Using Recursion
+i/p : 12345
+o/p : false
+
+Count Zero in a Digit Using Recursion
+i/p : 10340101
+o/p : 3
+
+Power Calculate Using Recursion
+i/p : 3, 6
+o/p : whatever 3 raise to the power 6 is
+
+Pattern Programs Using Recursion
+
+*****
+*****
+*****
+*****
+*****
+
+*
+**
+***
+****
+*****
+
+*****
+****
+***
+**
+*
+
+1
+2 3
+4 5 6
+7 8 9 10
+
+
+    *
+   * *
+  * * *
+ * * * *
+* * * * *
+
+***********
+ *********
+  *******
+   *****
+    ***
+     *
+
+abcde
+abcd
+abc
+ab
+a
+
+Frequency Count
+i/p : text = "ram sharma"
+o/p : {'r':2, 'a':3, 'm':2, 's':1, 'h':1,}
+
+
+Replace all Pi values with 3.14
+i/p : str = "2*pi+3*pi=5*pi"
+o/p : str = "2*3.14+3*3.14=5*3.14"
+
+
+Adjacent Stars
+i/p : str = "abbabaab"
+o/p : "ab*baba*ab"
+
+
+Check if a number is power of 2
+i/p : 16
+o/p : true
+
+2,4,8,16,32,64,128,256,512,1024....
+
+Check Power of 3
+Check Power of 4
+
+
+Print all subsequences of a string
+i/p : String str = "ravi";
+o/p : "", "r", "a", "v", "i", "ra", "rv", "ri", "ai", "av", "vi", "rav", "rai", "rvi", "avi", "ravi"
+
+Print all String Permutations
+i/p : String str = "abc"
+o/p : {"abc","acb","bca","bac","cba","cab"}
+
+Check whether array is sorted or not
+- i/p : arr = {3,5,7,12,46,77}
+- o/p : true
+Search Element in an array
+Search Element in array from last index
+
+
+Types of Recursion
+- Single Branch
+- Multi Branch
+
+Fibonacci Series
+Print Examples
+Climb Stairs
+
+Dice Count
+
+Maze Path
+Diagonal Maze Path - HW
+Tower of Hanoi - HW
