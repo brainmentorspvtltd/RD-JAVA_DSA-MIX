@@ -4,6 +4,11 @@ public class NQueen {
 
     static int getCount(boolean[][] board, int currentRow) {
         int count = 0;
+
+        if(currentRow == board.length) {
+            return 1;
+        }
+
         for(int col = 0; col < board.length; col++) {
             if(isSafeArea(board, currentRow, col)) {
                 board[currentRow][col] = true;
@@ -31,18 +36,17 @@ public class NQueen {
         }
 
         // check if there is a queen in upper right diagonal
-        for(int i = row, j = col; i >= 0 && j <= board.length; i--, j++) {
+        for(int i = row, j = col; i >= 0 && j < board.length; i--, j++) {
             if(board[i][j]) {
                 return false;
             }
         }
-
         return true;
-
     }
 
     public static void main(String[] args) {
         boolean[][] board = new boolean[4][4];
-        getCount(board, 0);
+        int count = getCount(board, 0);
+        System.out.println(count);
     }
 }
