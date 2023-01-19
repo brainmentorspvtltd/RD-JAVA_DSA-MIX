@@ -121,3 +121,16 @@ Dice Count
 Maze Path
 Diagonal Maze Path - HW
 Tower of Hanoi - HW
+Josephus Problem
+
+==================================
+Backtracking
+N-Queen Problem
+Well Formed Parantheses (Microsoft, Adobe, Nvidia, TCS, Apple)
+Sudoku
+Word Search
+Letter Combination
+Combination Sum : LC-39
+Permutations : LC-46
+Rat in a Maze
+Count ways for Rat in a Maze
